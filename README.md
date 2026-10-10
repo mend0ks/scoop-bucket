@@ -4,9 +4,7 @@
 
 ## How do I install these manifests?
 
-After manifests have been committed and pushed, run the following:
-
 ```pwsh
-scoop bucket add scoop-bucket https://github.com/mend0ks/scoop-bucket
+scoop bucket add mend0ks https://github.com/mend0ks/scoop-bucket
 scoop install <manifestname>
 ```
