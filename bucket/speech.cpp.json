@@ -1,6 +1,6 @@
 {
     "version": "0.8.3",
-    "description": " Speech synthesis, speech recognition and voice activity detection for voice conversation, in C++ on ggml",
+    "description": "Speech synthesis, speech recognition and voice activity detection for voice conversation, in C++ on ggml",
     "homepage": "https://github.com/nyosegawa/speech.cpp",
     "license": "MIT",
     "architecture": {
