@@ -1,12 +1,12 @@
 {
-    "version": "0.8.11",
+    "version": "0.9.0",
     "description": "Speech synthesis, speech recognition and voice activity detection for voice conversation, in C++ on ggml",
     "homepage": "https://github.com/nyosegawa/speech.cpp",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/nyosegawa/speech.cpp/releases/download/v0.8.11/speech-0.8.11-windows-x64-vulkan.zip",
-            "hash": "63f4c5b5c60aeab9d4c90193298fe4ee5d2a6c931cdbdcbc8cbb126fbffc56d0"
+            "url": "https://github.com/nyosegawa/speech.cpp/releases/download/v0.9.0/speech-0.9.0-windows-x64-vulkan.zip",
+            "hash": "f4319a66681adba197236c634df6dc5728bb298aee6e49e8497a85e9f025ae64"
         }
     },
     "bin": "speech.exe",
