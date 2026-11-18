@@ -1,16 +1,16 @@
 {
-    "version": "b5696-fe1c75f",
+    "version": "b5703-21a94c1",
     "description": "ik_llama.cpp's Thireus fork with release builds for macOS/Windows/Ubuntu CPU, Vulkan and CUDA",
     "homepage": "https://github.com/Thireus/ik_llama.cpp",
     "license": "MIT",
     "architecture": {
         "64bit": {
             "url": [
-                "https://github.com/Thireus/ik_llama.cpp/releases/download/main-b5696-fe1c75f/ik_llama-main-b5696-fe1c75f-bin-win-cuda-13.3-x64-avx2.zip",
-                "https://github.com/Thireus/ik_llama.cpp/releases/download/main-b5696-fe1c75f/ik_llama-cudart-main-b5696-fe1c75f-bin-win-cuda-13.3-x64-avx2.zip"
+                "https://github.com/Thireus/ik_llama.cpp/releases/download/main-b5703-21a94c1/ik_llama-main-b5703-21a94c1-bin-win-cuda-13.3-x64-avx2.zip",
+                "https://github.com/Thireus/ik_llama.cpp/releases/download/main-b5703-21a94c1/ik_llama-cudart-main-b5703-21a94c1-bin-win-cuda-13.3-x64-avx2.zip"
             ],
             "hash": [
-                "930f9eb294c38bbce26120cc8f285d4afa267934630f57794d2ade5e243dfecf",
+                "8447b7d82af4b79d6863b0f58c779fefa7581be8a3f52e2451e6268f2d2034ae",
                 "1462a050eb4c684921ba51dcc4cc488a036674c3e73e9945ee705b854808d03e"
             ]
         }
