@@ -1,12 +1,12 @@
 {
-    "version": "b5454",
+    "version": "b5907",
     "description": "Inference of OpenAI's Whisper automatic speech recognition (ASR) model in pure C/C++ (CUDA 12 version)",
     "homepage": "https://github.com/ggml-org/whisper.cpp",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ggml-org/whisper.cpp/releases/download/b5454/whisper-bin-win-cuda-12.4.0-x64.zip",
-            "hash": "afef0b881c500958921c3f5523b50e59ee2ec9b6f5cbd25b324c51ed308a957a"
+            "url": "https://github.com/ggml-org/whisper.cpp/releases/download/b5907/whisper-bin-win-cuda-12.4.0-x64.zip",
+            "hash": "34f872ce724ca1ff0a4afca481853e5ee74250f8cb22153e499f953562846039"
         }
     },
     "pre_install": [
