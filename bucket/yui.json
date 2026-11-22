@@ -1,12 +1,12 @@
 {
-    "version": "0.18.2",
+    "version": "0.19.0",
     "description": "Target-as-truth dotfiles manager",
     "homepage": "https://github.com/yukimemi/yui",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/yukimemi/yui/releases/download/v0.18.2/yui-x86_64-pc-windows-msvc.zip",
-            "hash": "46c99c3d36c3ca6857ca5abcd6427f1e58e0b721ee795bf42f1e83502e153a25"
+            "url": "https://github.com/yukimemi/yui/releases/download/v0.19.0/yui-x86_64-pc-windows-msvc.zip",
+            "hash": "4d1874f980067fd8b5b1c3f473bff1a3bd0cbaff20bc821581450958618a4b74"
         }
     },
     "bin": "yui.exe",
